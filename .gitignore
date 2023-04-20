@@ -90,3 +90,7 @@ db.sqlite3
 
 .idea/*
 .vscode/*
+
+ckeditor/
+debug_toolbar/
+media/
